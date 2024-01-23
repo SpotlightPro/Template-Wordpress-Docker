@@ -1,0 +1,13 @@
+#Copy and rename this file into the root folder as .env
+
+#IP address of the server
+IP=127.0.0.1
+
+#Port number for the Wordpress database
+PORT=80
+
+#Password for the MySQL root user
+DB_ROOT_PASSWORD=password
+
+#Name of the Wordpress database
+DB_NAME=wordpress
